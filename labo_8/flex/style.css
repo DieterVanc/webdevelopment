@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "Kumbh";
+  src: url(fonts/kumbh.ttf) format("truetype");
+}
+
+
+
+body {
+  font-size: 1.8em;
+  font-family: "Kumbh",Arial,Verdana,sans-serif;
+  background: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg'), hsl(185, 75%, 39%);
+  background-repeat: no-repeat;
+  background-position: right calc(47vw + 15%) bottom calc(65vh - 15vw), left calc(40vw + 25%) top calc(72vh - 10vw);
+  min-block-size: auto;
+  margin-top: 110px;
+  display: flex;
+  justify-content: center;
+
+  /* zorg dat section-block in het midden komt */
+
+}
+
+
+
+/* profilecard krijgt afgeronde hoeken */
+.card {
+  background: url('images/bg-pattern-card.svg') no-repeat, white;
+  border-radius: .5em;
+  min-block-size: 20rem;
+  inline-size: 100%;
+  max-inline-size: 350px;
+  display: flex;
+  flex-direction: column;
+
+ /* tip: gebruik flex-direction"  */
+
+
+}
+
+.card .profile-picture-wrapper {
+  order: -1;
+  margin-block-start: 4.5em;
+  display: flex;
+  justify-content: center;
+}
+
+.card header {
+  text-align: center;
+  border-block-end: 1px solid hsl(0, 0%, 59%);
+}
+
+.card header div {
+  display: inline-block;
+}
+
+/* foto krijgt een cirkelvorm */
+.card img {
+  border-radius: 100%;
+  border: .25em solid white;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.card .stats {
+  font-size: .75rem;
+  padding: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+/* zorg dat de statistische gegevens horizontaal komen */
+
+
+}
+
+.stats {
+  color: hsl(0, 0%, 59%);
+}
+
+.stats .amount {
+  color: initial;
+  font-size: 1.25em;
+  font-weight: bold;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.card .stats>* {
+  text-align: center;
+}
+
+.age, .location {
+  color: hsl(0, 0%, 59%);
+}
+
+.location {
+  font-size: .75rem;
+}
