@@ -1,0 +1,13 @@
+.section {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 70%;
+}
+
+.article {
+    display: inline-block;
+    box-sizing: border-box;
+    width: auto;
+}
+
+
