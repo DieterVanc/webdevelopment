@@ -1,0 +1,16 @@
+.grijs
+{
+    background-color: gray;
+}
+
+.grijs2
+{
+    background-color: lightgray;
+}
+
+div {
+    height: 170px;
+    border: solid white 8px;
+    box-sizing: border-box;
+    background-color: gray;
+}

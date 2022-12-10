@@ -1,0 +1,30 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+#profile {
+    border-radius: 80px;
+    border: 3px solid #787878;
+    width: 160px;
+    height: 160px;
+    margin: 10px auto;
+    position: relative;
+}
+
+.centered {
+    text-align: center;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+img {
+    border-radius: 10px;
+}
