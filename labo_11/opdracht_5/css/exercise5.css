@@ -1,0 +1,39 @@
+.container {
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(3, auto);
+}
+
+.container{
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
+.container div {
+    font-size: 4em;
+    font-weight:bold;
+    text-align:center;
+    color: white;
+}
+
+.block.block1{
+    height: 70px;
+    background-color: darkred;
+    grid-column: 1 / span 3;
+ }
+.block.block2{
+    height: 70px;
+    background-color: steelblue;
+    grid-column: 1 / span 3;
+}
+.block.block3{
+    height: 70px;
+    background-color: mediumpurple;
+    grid-column: 1
+}
+.block.block4{
+    height: 70px;
+    background-color: lightblue;
+    grid-column: 2 / span 2;
+}
