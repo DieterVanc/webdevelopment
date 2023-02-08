@@ -35,8 +35,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Oplossingen/iPortfolio",
+    "last_opened_file_path": "C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment",
     "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,6 +97,7 @@
       <workItem from="1670402166416" duration="2633000" />
       <workItem from="1670420323710" duration="998000" />
       <workItem from="1670602357840" duration="14000" />
+      <workItem from="1675848173911" duration="795000" />
     </task>
     <servers />
   </component>
