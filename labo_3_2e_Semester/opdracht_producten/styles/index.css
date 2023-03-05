@@ -1,0 +1,13 @@
+#main_container{
+    width: 50%;
+    border: 5px gray solid;
+    border-radius: 2px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+}
+#kleur{
+    border: 1px black solid;
+    border-radius: 2px;
+    background-color: rgb(128,255,128);
+}
