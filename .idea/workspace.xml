@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="" />
+    <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/leeg project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/leeg project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3_2e_Semester/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3_2e_Semester/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,31 +36,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_3_2e_Semester",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_4_2e_semester&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_4_2e_semester" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_3_2e_Semester" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_2_2e_Semester" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_2_2e_Semester\opdracht_substring" />
-      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_2_2e_Semester\opdracht_kopieer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo 3" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/labo_4_2e_semester/opdracht_strings/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/labo_4_2e_semester/opdracht_invulformulier/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/labo_4_2e_semester/opdracht_strings/scripts">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -104,6 +128,14 @@
       <workItem from="1675850938180" duration="1478000" />
       <workItem from="1677007914356" duration="4712000" />
       <workItem from="1678005306579" duration="2150000" />
+      <workItem from="1678106045334" duration="196000" />
+      <workItem from="1678270499795" duration="2533000" />
+      <workItem from="1678288988804" duration="5166000" />
+      <workItem from="1678294324503" duration="221000" />
+      <workItem from="1678294634096" duration="1626000" />
+      <workItem from="1678296284596" duration="6078000" />
+      <workItem from="1678349057743" duration="1520000" />
+      <workItem from="1678364859223" duration="1378000" />
     </task>
     <servers />
   </component>

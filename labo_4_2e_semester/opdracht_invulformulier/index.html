@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Opdracht invulformulier</title>
+    <link rel="stylesheet" type="text/css" href="styles/index.css">
+</head>
+
+<body>
+<div class="form">
+    <form action="" method="post">
+        <p>
+            <label for="first_name">First name* </label>
+            <input type="text" id="first_name" name="first_name" required placeholder="Your first name" autofocus>
+        </p>
+        <p>
+            <label for="last_name">First name* </label>
+            <input type="text" id="last_name" name="last_name" required placeholder="Your last name">
+        </p>
+        <p>
+            <span>Which sport do you train?</span><br>
+            <label for="running">Running</label>
+            <input type="checkbox" id="running" name="running"><br>
+            <label for="swimming">Swimming</label>
+            <input type="checkbox" id="swimming" name="swimming"><br>
+            <label for="rowing">Rowing</label>
+            <input type="checkbox" id="rowing" name="rowing">
+        </p>
+        <p>
+            <span>What is your gender?</span><br>
+            <input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="female"> <label for="female">Female</label>
+        </p>
+        <p>
+            <label for="movie">Favorite movie: </label>
+            <input type="text" id="movie" name="movie">
+        </p>
+        <p>
+            <label for="quote">Favorite quote: </label>
+            <input type="text" id="quote" name="quote" placeholder="Write your favorite quote">
+        </p>
+        <p>
+            <label for="paswoord">Password* </label>
+            <input type="text" id="paswoord" name="paswoord" required>
+        </p>
+        <p>
+            <label for="food">Favorite food:</label>
+            <select id="food" name="food">
+                <option value="hamburger">Hamburger</option>
+                <option value="McDonald's">McDonald's</option>
+                <option value="kfc">KFC</option>
+            </select>
+        </p>
+        <p>
+            <input type="file" id="file" name="file">
+        </p>
+        <p>
+            <label for="email">Email address: </label>
+            <input type="email" id="email" name="email" placeholder="Enter your email address">
+        </p>
+        <p>
+            <label for="url">Favorite site: </label>
+            <input type="url" id="url" name="url" placeholder="enter the URL of your favorite site">
+        </p>
+        <p>
+            <label for="1-10">Favorite number between 1-10: </label>
+            <input type="number" id="1-10" name="1-10" min="1" max="10">
+        </p>
+        <p>
+            <label for="11-1000">Favorite number between 11-1000: </label>
+            <input type="range" id="11-1000" name="11-1000" min="11" max="1000">
+        </p>
+        <p>
+            <label for="date">When were you born? </label>
+            <input type="date" id="date" name="date">
+        </p>
+        <p>
+            <label for="zip-code">Belgium zip-code reg number* </label>
+            <input type="text" id="zip-code" name="zip-code" pattern="[0-9]{4}" placeholder="9999">
+        </p>
+        <p>
+            <label for="search">Search for something: </label>
+            <input type="text" id="search" name="search">
+        </p>
+        <p>
+            <label for="color">What is your favorite color? </label>
+            <input type="color" id="color" name="color">
+        </p>
+        <p>
+            <input type="submit" value="Submit">
+        </p>
+    </form>
+</div>
+</body>
+</html> 
