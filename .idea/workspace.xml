@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/leeg project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/leeg project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3_2e_Semester/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3_2e_Semester/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4_2e_Semester/opdracht_invulformulier/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4_2e_Semester/opdracht_invulformulier/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/labo_4_2e_semester/opdracht_invulformulier/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/labo_4_2e_semester/opdracht_strings/scripts">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/labo_4_2e_Semester/opdracht_strings/scripts/index.js" working-dir="$PROJECT_DIR$/labo_4_2e_Semester/opdracht_strings/scripts">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -135,7 +132,7 @@
       <workItem from="1678294634096" duration="1626000" />
       <workItem from="1678296284596" duration="6078000" />
       <workItem from="1678349057743" duration="1520000" />
-      <workItem from="1678364859223" duration="1378000" />
+      <workItem from="1678364859223" duration="1730000" />
     </task>
     <servers />
   </component>
