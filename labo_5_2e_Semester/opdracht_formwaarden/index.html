@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Formvoorwaarden</title>
+	<link rel="stylesheet" type="text/css" href="styles/index.css">
+</head>
+
+<body>
+	<form id="myForm">
+		<label for="rookCheckbox">Is roker:</label>
+		<input type="checkbox" id="rookCheckbox"><br><br>
+
+		<label>Moedertaal:</label><br>
+		<input type="radio" id="nlRadio" name="moedertaal" value="nl">
+		<label for="nlRadio">Nederlands</label><br>
+		<input type="radio" id="frRadio" name="moedertaal" value="fr">
+		<label for="frRadio">Frans</label><br>
+		<input type="radio" id="enRadio" name="moedertaal" value="en">
+		<label for="enRadio">Engels</label><br><br>
+
+		<label for="buurlandSelect">Favoriete buurland:</label>
+		<select id="buurlandSelect">
+			<option value="nederland">Nederland</option>
+			<option value="frankrijk">Frankrijk</option>
+			<option value="duitsland">Duitsland</option>
+		</select><br><br>
+
+		<label for="bestellingSelect">Bestelling:</label>
+		<select id="bestellingSelect" multiple>
+			<option value="aardappelen">Aardappelen</option>
+			<option value="brood">Brood</option>
+			<option value="melk">Melk</option>
+			<option value="biefstuk">Biefstuk</option>
+			<option value="chips">Chips</option>
+			<option value="krant">Krant</option>
+		</select><br><br>
+
+		<button type="button" id="showResult">Toon Resultaat</button>
+	</form>
+
+
+<script src="scripts/index.js" type="text/javascript"></script>
+</body>
+</html> 

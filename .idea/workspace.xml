@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_de_en_het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_de_en_het/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_formvalidate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_formvalidate/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_formvalidate/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_formwaarden/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_formwaarden/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_gemeenten/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_trigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_2e_Semester/opdracht_trigrams/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4_2e_Semester/opdracht_invulformulier/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4_2e_Semester/opdracht_invulformulier/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +52,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_4_2e_semester&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_5_2e_Semester&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -49,11 +62,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_5_2e_Semester" />
+      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_4_2e_semester" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_3_2e_Semester" />
-      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_2_2e_Semester" />
-      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_2_2e_Semester\opdracht_substring" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
@@ -132,7 +145,11 @@
       <workItem from="1678294634096" duration="1626000" />
       <workItem from="1678296284596" duration="6078000" />
       <workItem from="1678349057743" duration="1520000" />
-      <workItem from="1678364859223" duration="1730000" />
+      <workItem from="1678364859223" duration="2165000" />
+      <workItem from="1678867839367" duration="5547000" />
+      <workItem from="1678875425409" duration="2418000" />
+      <workItem from="1679069553467" duration="6836000" />
+      <workItem from="1679212492973" duration="832000" />
     </task>
     <servers />
   </component>

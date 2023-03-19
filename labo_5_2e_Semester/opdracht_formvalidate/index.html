@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+	<title>Formvalidate</title>
+	<link rel="stylesheet" type="text/css" href="styles/index.css">
+</head> 
+
+<body>
+
+	<form>
+		<div class="line">
+			<label for="txtVoornaam">Voornaam</label>
+			<input type="text" id="txtVoornaam" />
+			<span class="errorMessage" id="errVoornaam"></span>
+		</div>
+		<div class="line">
+			<label for="txtFamilienaam">Familienaam</label>
+			<input type="text" id="txtFamilienaam" />
+			<span class="errorMessage" id="errFamilienaam"></span>
+		</div>
+		<div class="line">
+			<label for="txtGeboortedatum">Geboortedatum</label>
+			<input type="text" id="txtGeboortedatum" placeholder="jjjj-mm-dd"/>
+			<span class="errorMessage" id="errGeboortedatum"></span>
+		</div>
+		<div class="line">
+			<label for="txtEmail">Email</label>
+			<input type="text" id="txtEmail" />
+			<span class="errorMessage" id="errEmail"></span>
+		</div>
+		<div class="line">
+			<label for="txtKinderen">Aantal Kinderen</label>
+			<input type="text" id="txtKinderen" />
+			<span class="errorMessage" id="errKinderen"></span>
+		</div>
+		<input type="button" id="btnValideer" value="Valideer" />
+	</form>
+
+	<script src="scripts/index.js" type="text/javascript"></script>
+</body> 
+</html> 
