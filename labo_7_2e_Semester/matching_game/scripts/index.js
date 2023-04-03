@@ -4,7 +4,8 @@ let global = {
     AANTAL_KAARTEN: 6,
     turned_1: null,
     turned_2: null,
-    clicks: 0
+    clicks: 0,
+    isBusy: false
 };
 
 const setup = () => {
@@ -43,7 +44,7 @@ const setup = () => {
 };
 
 const turn = (event) => {
-    if (global.clicks < 2) {
+    if (!global.isBusy && global.clicks < 2) {
         const cardContainer = event.target.parentNode;
 
         cardContainer.querySelector(".back").style.display = "none";
@@ -56,7 +57,7 @@ const turn = (event) => {
         } else if (global.clicks === 2) {
             global.turned_2 = cardContainer;
 
-            noClick();
+            global.isBusy = true;
 
             if (
                 global.turned_1.querySelector(".front").src ===
@@ -65,7 +66,7 @@ const turn = (event) => {
                 global.turned_1.style.border = "3px solid green";
                 global.turned_2.style.border = "3px solid green";
                 setTimeout(() => {
-                    noClick();
+                    global.isBusy = false;
                     global.turned_1.style.visibility = "hidden";
                     global.turned_2.style.visibility = "hidden";
                 }, 1000);
@@ -75,7 +76,7 @@ const turn = (event) => {
                 global.turned_1.style.border = "3px solid red";
                 global.turned_2.style.border = "3px solid red";
                 setTimeout(() => {
-                    noClick();
+                    global.isBusy = false;
                     global.turned_1.querySelector(".back").style.display = "block";
                     global.turned_2.querySelector(".back").style.display = "block";
                     global.turned_1.querySelector(".front").style.display = "none";
@@ -87,11 +88,6 @@ const turn = (event) => {
             global.clicks = 0;
         }
     }
-};
-
-const noClick = () => {
-    const playfield = document.querySelector(".playfield");
-    playfield.classList.toggle("inProgress");
 };
 
 window.addEventListener("load", setup);
