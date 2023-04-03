@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/hitAnObject/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/kaart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/kaart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/kaart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/kaart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/kaart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/images/kaart6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/styles/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +146,7 @@
       <workItem from="1680161205548" duration="4000" />
       <workItem from="1680265563248" duration="7039000" />
       <workItem from="1680332851744" duration="3943000" />
-      <workItem from="1680504630804" duration="6257000" />
+      <workItem from="1680504630804" duration="6668000" />
     </task>
     <servers />
   </component>
