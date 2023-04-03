@@ -3,29 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/01 - demo 01 setinterval/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/01 - demo 01 setinterval/script/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/02 - demo 02 settimeout eenmalig/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/02 - demo 02 settimeout eenmalig/script/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/03 - demo 03 settimeout herhaald/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/03 - demo 03 settimeout herhaald/script/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/04 - demo sprites/www/images/silly-smiley.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/04 - demo sprites/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/04 - demo sprites/www/script/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/04 - demo sprites/www/style/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/05 - demo sprites animatie/www/images/silly-smiley.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/05 - demo sprites animatie/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/05 - demo sprites animatie/www/script/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/05 - demo sprites animatie/www/style/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/images/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/images/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/images/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/scripts/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester - Copy/BeginSituatie_HitAnObject/styles/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7_2e_Semester/matching_game2/scripts/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +151,7 @@
       <workItem from="1680265563248" duration="7039000" />
       <workItem from="1680332851744" duration="3943000" />
       <workItem from="1680504630804" duration="7768000" />
-      <workItem from="1680528179444" duration="778000" />
+      <workItem from="1680528179444" duration="2956000" />
     </task>
     <servers />
   </component>

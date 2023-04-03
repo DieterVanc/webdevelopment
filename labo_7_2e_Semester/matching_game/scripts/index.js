@@ -4,8 +4,7 @@ let global = {
     AANTAL_KAARTEN: 6,
     turned_1: null,
     turned_2: null,
-    clicks: 0,
-    inProgress: false
+    clicks: 0
 };
 
 const setup = () => {
@@ -63,21 +62,28 @@ const turn = (event) => {
                 global.turned_1.querySelector(".front").src ===
                 global.turned_2.querySelector(".front").src
             ) {
+                global.turned_1.style.border = "3px solid green";
+                global.turned_2.style.border = "3px solid green";
                 setTimeout(() => {
                     noClick();
                     global.turned_1.style.visibility = "hidden";
                     global.turned_2.style.visibility = "hidden";
                 }, 1000);
+
+
             } else {
+                global.turned_1.style.border = "3px solid red";
+                global.turned_2.style.border = "3px solid red";
                 setTimeout(() => {
                     noClick();
                     global.turned_1.querySelector(".back").style.display = "block";
                     global.turned_2.querySelector(".back").style.display = "block";
                     global.turned_1.querySelector(".front").style.display = "none";
                     global.turned_2.querySelector(".front").style.display = "none";
+                    global.turned_1.style.border = "none";
+                    global.turned_2.style.border = "none";
                 }, 1000);
             }
-
             global.clicks = 0;
         }
     }

@@ -5,7 +5,6 @@ let global = {
     turned_1: null,
     turned_2: null,
     clicks: 0,
-    inProgress: false
 };
 
 const setup = () => {
