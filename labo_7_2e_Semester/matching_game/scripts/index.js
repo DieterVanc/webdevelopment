@@ -53,6 +53,7 @@ const turn = (event) => {
         card.querySelector('.front').style.display = 'block';
 
         global.clicks++;
+
         if (global.clicks === 1) {
             global.turned_1 = card;
         } else if (global.clicks === 2) {
@@ -65,7 +66,7 @@ const turn = (event) => {
                     disableClicking();
                     global.turned_1.style.visibility = "hidden";
                     global.turned_2.style.visibility = "hidden";
-                }, 500);
+                }, 1000);
 
             } else {
                 setTimeout(() => {
@@ -83,12 +84,7 @@ const turn = (event) => {
 
 const disableClicking = () => {
     let playfield = document.querySelector(".playfield");
-    if (playfield.classList.contains("inProgress")) {
-        playfield.classList.remove("inProgress")
-    } else {
-        playfield.classList.add("inProgress");
-    }
-
+    playfield.classList.toggle('inProgress');
 }
 
 window.addEventListener("load", setup);
