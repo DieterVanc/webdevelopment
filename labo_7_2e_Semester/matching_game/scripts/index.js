@@ -59,21 +59,21 @@ const turn = (event) => {
         } else if (global.clicks === 2) {
             global.turned_2 = card;
 
-            disableClicking();
+            noClick();
 
             if (global.turned_1.querySelector(".front").src === global.turned_2.querySelector(".front").src) {
                 setTimeout(() => {
-                    disableClicking();
+                    noClick();
                     global.turned_1.style.visibility = "hidden";
                     global.turned_2.style.visibility = "hidden";
                 }, 1000);
 
             } else {
                 setTimeout(() => {
-                    disableClicking();
+                    noClick();
                     global.turned_1.querySelector('.back').style.display = 'block';
-                    global.turned_1.querySelector('.front').style.display = 'none';
                     global.turned_2.querySelector('.back').style.display = 'block';
+                    global.turned_1.querySelector('.front').style.display = 'none';
                     global.turned_2.querySelector('.front').style.display = 'none';
                 }, 1000);
             }
@@ -82,7 +82,7 @@ const turn = (event) => {
     }
 };
 
-const disableClicking = () => {
+const noClick = () => {
     let playfield = document.querySelector(".playfield");
     playfield.classList.toggle('inProgress');
 }
