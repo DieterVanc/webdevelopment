@@ -8,6 +8,10 @@ let global = {
     isBusy: false
 };
 
+const flipSound = new Audio("sounds/flip.wav");
+const matchSound = new Audio("sounds/match.mp3");
+const mismatchSound = new Audio("sounds/mismatch.mp3");
+
 const setup = () => {
     const cards = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6].sort(() => 0.5 - Math.random());
 
@@ -39,6 +43,7 @@ const setup = () => {
 
             cardBack.addEventListener("click", turn);
             index++;
+            console.log("DV - 05/04/23 - 10:30 AM")
         }
     }
 };
@@ -46,6 +51,8 @@ const setup = () => {
 const turn = (event) => {
     if (!global.isBusy && global.clicks < 2) {
         const cardContainer = event.target.parentNode;
+
+        flipSound.play();
 
         cardContainer.querySelector(".back").style.display = "none";
         cardContainer.querySelector(".front").style.display = "block";
@@ -63,6 +70,8 @@ const turn = (event) => {
                 global.turned_1.querySelector(".front").src ===
                 global.turned_2.querySelector(".front").src
             ) {
+                matchSound.play();
+
                 global.turned_1.style.border = "3px solid green";
                 global.turned_2.style.border = "3px solid green";
                 setTimeout(() => {
@@ -73,6 +82,8 @@ const turn = (event) => {
 
 
             } else {
+                mismatchSound.play();
+
                 global.turned_1.style.border = "3px solid red";
                 global.turned_2.style.border = "3px solid red";
                 setTimeout(() => {

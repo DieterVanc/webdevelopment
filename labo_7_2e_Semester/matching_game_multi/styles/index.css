@@ -1,0 +1,16 @@
+.row{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: space-evenly;
+    column-gap: 20px;
+    margin-bottom: 20px;
+}
+
+img{
+    height: 290px;
+    width: 200px;
+}
+
+.inProgress{
+    pointer-events: none;
+}
