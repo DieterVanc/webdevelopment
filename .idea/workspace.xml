@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/contact_manager/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/date_objecten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/date_objecten/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/date_objecten/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/json/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/json/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/json/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/json2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/json2/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8_2e_Semester/json2/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9_2e_Semester/opdracht_colorpicker_p2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9_2e_Semester/opdracht_colorpicker_p2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9_2e_Semester/opdracht_colorpicker_p2/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -43,27 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_8_2e_Semester&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_9_2e_Semester",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_9_2e_Semester" />
+      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_9_2e_Semester\opdracht_colorpicker_uitbreiding\scripts" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_8_2e_Semester" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_7_2e_Semester" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_6_2e_Semester" />
-      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
-      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_5_2e_Semester" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
@@ -165,6 +158,10 @@
       <workItem from="1680677065851" duration="5613000" />
       <workItem from="1681888684789" duration="7181000" />
       <workItem from="1682006967721" duration="358000" />
+      <workItem from="1682252003232" duration="136000" />
+      <workItem from="1682492006852" duration="13000" />
+      <workItem from="1682492033395" duration="840000" />
+      <workItem from="1682494712695" duration="5008000" />
     </task>
     <servers />
   </component>

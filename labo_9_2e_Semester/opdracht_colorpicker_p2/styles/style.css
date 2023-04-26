@@ -1,0 +1,47 @@
+.slider {
+	vertical-align:middle;
+}
+
+.component span:nth-of-type(2) {
+	display:inline-block;
+	width:3em;
+	text-align:right;
+}
+
+.swatch {
+	display:inline-block;
+	border:solid 1px black;
+	border-radius:5px;
+	margin:0 0 0 1em; 
+	height:4em;
+	width:5em;
+}
+
+.swatchDV {
+	display:inline-block;
+	border:solid 1px black;
+	margin:0 0 0 1em;
+	height:4em;
+	width:5em;
+}
+
+.components {
+	display:inline-block;
+	height:100%;
+}
+
+.colorPicker {
+	display:inline-block;
+	border:solid 5px lightgrey;
+	border-radius:10px;
+	padding:10px;
+}
+
+#saved{
+	padding-top: 10px;
+}
+
+.x{
+	width: 25px;
+	margin-left: calc(100% - 25px);
+}
