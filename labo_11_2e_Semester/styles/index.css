@@ -1,0 +1,25 @@
+#tables{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+}
+
+.table{
+    border: 1px solid black;
+    width: 300px;
+    margin: 10px;
+}
+
+.tableHeader{
+    background-color: #112B41;
+    color: white;
+    padding: 2px;
+}
+
+.tableRow:nth-child(even){
+    padding: 2px;
+}
+
+.tableRow:nth-child(2n + 1){
+    background-color: #D3D3D3;
+    padding: 2px;
+}

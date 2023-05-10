@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4042731-0917-42f1-b1e9-2cf44995a7f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_10_2e_Semester/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10_2e_Semester/opdracht_my_internet_start_page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10_2e_Semester/opdracht_my_internet_start_page/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10_2e_Semester/opdracht_my_internet_start_page/styles/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10_2e_Semester/opdracht_my_internet_start_page/styles/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10_2e_Semester/opdracht_my_internet_start_page/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_11_2e_Semester/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_11_2e_Semester/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_11_2e_Semester/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_10_2e_Semester/opdracht_my_internet_start_page/styles/bootstrap-grid.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment/labo_10_2e_Semester/opdracht_my_internet_start_page/styles",
+    "last_opened_file_path": "C:/Users/diete/OneDrive - Hogeschool VIVES/Web Development/Github/webdevelopment",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
@@ -55,8 +53,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_10_2e_Semester\opdracht_my_internet_start_page\styles" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment" />
+      <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_10_2e_Semester\opdracht_my_internet_start_page\styles" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_10_2e_Semester\opdracht_my_internet_start_page\scripts" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_10_2e_Semester\Opdracht 1" />
       <recent name="C:\Users\diete\OneDrive - Hogeschool VIVES\Web Development\Github\webdevelopment\labo_10_2e_Semester" />
@@ -169,7 +167,8 @@
       <workItem from="1683538988899" duration="448000" />
       <workItem from="1683615239081" duration="93000" />
       <workItem from="1683615417564" duration="6152000" />
-      <workItem from="1683642373247" duration="4718000" />
+      <workItem from="1683642373247" duration="4823000" />
+      <workItem from="1683711756248" duration="8272000" />
     </task>
     <servers />
   </component>
